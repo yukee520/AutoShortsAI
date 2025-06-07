@@ -16,3 +16,6 @@ def main_task():
 if __name__ == "__main__":
     threading.Thread(target=run_server).start()
     main_task()
+
+with open("input_prompt.txt", "r") as f:
+    prompt = f.read().strip()
