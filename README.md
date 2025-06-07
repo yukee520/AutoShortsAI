@@ -43,5 +43,6 @@ Interested in contributing? We welcome contributions of all forms, from bug repo
 **Are the videos unique?**
 > Unlike other services that re-use the same video over and over, we create a new video for each series using generative AI. This means that each video is unique and will not be the same as any other video.
 
-For more information and updates, follow us on [YouTube](https://www.youtube.com/@autoshortsapp)
+For more information and updates, follow us on 
+[YouTube](https://www.youtube.com/@autoshortsapp)
 
