@@ -3,3 +3,4 @@ moviepy
 tqdm
 pydub
 requests
+streamlit
